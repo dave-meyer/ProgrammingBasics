@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="44cm" height="19cm" viewBox="90 162 874 369" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="461.75" y="163" width="100.5" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="461.75" y="163" width="100.5" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="512" y="186.8">
+      <tspan x="512" y="186.8">Untersuchung</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="162.775" y="295" width="126.225" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="162.775" y="295" width="126.225" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="225.887" y="318.8">
+      <tspan x="225.887" y="318.8">Voruntersuchung</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="471.038" y="295.4" width="133.15" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="471.038" y="295.4" width="133.15" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="537.613" y="319.2">
+      <tspan x="537.613" y="319.2">Hauptuntersuchung</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="760.338" y="296.8" width="127.55" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760.338" y="296.8" width="127.55" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="824.113" y="320.6">
+      <tspan x="824.113" y="320.6">Nachuntersuchung</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="91.175" y="383" width="103.65" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="91.175" y="383" width="103.65" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="143" y="406.8">
+      <tspan x="143" y="406.8">Fieber messen</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="401.05" y="385" width="121.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="401.05" y="385" width="121.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="462" y="408.8">
+      <tspan x="462" y="408.8">Blutdruck messen</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="248.5" y="385.4" width="121.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="248.5" y="385.4" width="121.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="309.45" y="409.2">
+      <tspan x="309.45" y="409.2">Blutdruck messen</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="554.5" y="385.4" width="121.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="554.5" y="385.4" width="121.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="615.45" y="409.2">
+      <tspan x="615.45" y="409.2">Oberarzt</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="476" y="491.8" width="121.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="476" y="491.8" width="121.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="536.95" y="515.6">
+      <tspan x="536.95" y="515.6">Operation</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="638.5" y="488.4" width="121.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="638.5" y="488.4" width="121.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="699.45" y="512.2">
+      <tspan x="699.45" y="512.2">OperationsCheck</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="725.326" y="385" width="69.35" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="725.326" y="385" width="69.35" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="760.001" y="408.8">
+      <tspan x="760.001" y="408.8">Röntgen</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="840.5" y="384.4" width="121.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="840.5" y="384.4" width="121.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="901.45" y="408.2">
+      <tspan x="901.45" y="408.2">Oberarzt</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="840.5" y="485.4" width="121.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="840.5" y="485.4" width="121.9" height="38"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="901.45" y="509.2">
+      <tspan x="901.45" y="509.2">Blutdruck messen</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="512,201 512,248 225.887,248 225.887,285.264 "/>
+    <polygon style="fill: #000000" points="225.887,292.764 220.887,282.764 225.887,285.264 230.887,282.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="225.887,292.764 220.887,282.764 225.887,285.264 230.887,282.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="512,201 512,248.2 537.613,248.2 537.613,285.664 "/>
+    <polygon style="fill: #000000" points="537.613,293.164 532.613,283.164 537.613,285.664 542.613,283.164 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="537.613,293.164 532.613,283.164 537.613,285.664 542.613,283.164 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="512,201 512,248.9 824.113,248.9 824.113,287.064 "/>
+    <polygon style="fill: #000000" points="824.113,294.564 819.113,284.564 824.113,287.064 829.113,284.564 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.113,294.564 819.113,284.564 824.113,287.064 829.113,284.564 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="225.887,334.01 225.887,358.505 143,358.505 143,373.264 "/>
+    <polygon style="fill: #000000" points="143,380.764 138,370.764 143,373.264 148,370.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="143,380.764 138,370.764 143,373.264 148,370.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="225.887,333 225.887,359.2 309.45,359.2 309.45,375.664 "/>
+    <polygon style="fill: #000000" points="309.45,383.164 304.45,373.164 309.45,375.664 314.45,373.164 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="309.45,383.164 304.45,373.164 309.45,375.664 314.45,373.164 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="537.613,333.4 537.613,358.895 615.45,358.895 615.45,374.654 "/>
+    <polygon style="fill: #000000" points="615.45,382.154 610.45,372.154 615.45,374.654 620.45,372.154 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615.45,382.154 610.45,372.154 615.45,374.654 620.45,372.154 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="537.613,333.4 537.613,359.2 462,359.2 462,375.264 "/>
+    <polygon style="fill: #000000" points="462,382.764 457,372.764 462,375.264 467,372.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462,382.764 457,372.764 462,375.264 467,372.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615.45,423.4 615.45,457.6 536.95,457.6 536.95,482.064 "/>
+    <polygon style="fill: #000000" points="536.95,489.564 531.95,479.564 536.95,482.064 541.95,479.564 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="536.95,489.564 531.95,479.564 536.95,482.064 541.95,479.564 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="615,428 615,458.2 699.45,458.2 699.45,478.664 "/>
+    <polygon style="fill: #000000" points="699.45,486.164 694.45,476.164 699.45,478.664 704.45,476.164 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="699.45,486.164 694.45,476.164 699.45,478.664 704.45,476.164 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.113,334.8 824.113,359.6 901.45,359.6 901.45,374.664 "/>
+    <polygon style="fill: #000000" points="901.45,382.164 896.45,372.164 901.45,374.664 906.45,372.164 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="901.45,382.164 896.45,372.164 901.45,374.664 906.45,372.164 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="824.113,334.8 824.113,359.9 760.001,359.9 760.001,375.264 "/>
+    <polygon style="fill: #000000" points="760.001,382.764 755.001,372.764 760.001,375.264 765.001,372.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="760.001,382.764 755.001,372.764 760.001,375.264 765.001,372.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="901.45,422.4 901.45,455.2 901.45,455.2 901.45,475.664 "/>
+    <polygon style="fill: #000000" points="901.45,483.164 896.45,473.164 901.45,475.664 906.45,473.164 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="901.45,483.164 896.45,473.164 901.45,475.664 906.45,473.164 "/>
+  </g>
+</svg>
