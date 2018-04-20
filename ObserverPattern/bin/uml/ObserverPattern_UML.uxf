@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>860</x>
+      <y>150</y>
+      <w>350</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>Heizungsschaltung
+--
+-observer : ArrayList&lt;IObserver&gt;
+-temperatur : float
+--
++Heizungsschaltung()
++addObserver(observer : IObserver) : void
++removeObserver(observer : IObserver) : void
++setTemperatur(temp : float) : void
++notifyObserver(temp : float) : void
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>550</x>
+      <y>160</y>
+      <w>230</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Interface&gt;&gt;
+IObserver
+--
++tempGeaendert(temp : float) : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>770</x>
+      <y>170</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>90.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>390</x>
+      <y>340</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Hausmeister
+--
+-temperatur : float
+--
+-tempGeaendert(temp : float) : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>500</x>
+      <y>220</y>
+      <w>150</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;.</panel_attributes>
+    <additional_attributes>130.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>680</x>
+      <y>340</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Hausverwaltung
+--
+-temperatur : float
+--
+-tempGeaendert(temp : float) : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>680</x>
+      <y>220</y>
+      <w>150</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;120.0</additional_attributes>
+  </element>
+</diagram>
